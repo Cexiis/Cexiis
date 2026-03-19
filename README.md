@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Caio César
+#  Olá, eu sou o Caio César
 
-🎯 IT Support Analyst SR com mais de 13 anos de experiência em Tecnologia da Informação, atuando fortemente em ambiente industrial.
+ IT Support Analyst SR com mais de 13 anos de experiência em Tecnologia da Informação, atuando fortemente em ambiente industrial.
 
 Atualmente focado em desenvolvimento com **Python** e **SQL**, criando soluções práticas para automação de processos, análise de dados e aumento de eficiência operacional.
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 - 💼 10+ anos na Salcomp como IT Support Analyst SR  
 - 🏭 Experiência sólida em ambiente industrial (chão de fábrica / manufatura)  
