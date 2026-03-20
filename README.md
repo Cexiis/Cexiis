@@ -54,7 +54,7 @@ Desenvolver soluções inteligentes que conectem tecnologia e operação, trazen
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (coloque seu link aqui)
+- 💼 LinkedIn:(https://www.linkedin.com/in/caio-césar-b35548134/)
 - 💻 GitHub: https://github.com/Cexiis
 
 ---
